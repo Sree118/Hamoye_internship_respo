@@ -1,2 +1,2 @@
 # Hamoye_internship_respo
-My first repository in githun
+My first repository in github
